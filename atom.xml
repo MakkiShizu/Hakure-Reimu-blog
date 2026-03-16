@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>博丽灵梦</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>http://localhost:4000/</id>
+  <link href="http://localhost:4000/" rel="alternate"/>
+  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 博丽灵梦</rights>
+  <subtitle>幻想乡的巫女日记</subtitle>
+  <title>博丽神社</title>
+  <updated>2026-03-16T12:43:10.403Z</updated>
+  <entry>
+    <author>
+      <name>博丽灵梦</name>
+    </author>
+    <content>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
+    </content>
+    <id>http://localhost:4000/hello-world/</id>
+    <link href="http://localhost:4000/hello-world/"/>
+    <published>2026-03-16T12:43:10.403Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-03-16T12:43:10.403Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>博丽灵梦</name>
+    </author>
+    <category term="异变记录" scheme="http://localhost:4000/categories/%E5%BC%82%E5%8F%98%E8%AE%B0%E5%BD%95/"/>
+    <category term="异变" scheme="http://localhost:4000/tags/%E5%BC%82%E5%8F%98/"/>
+    <category term="日常" scheme="http://localhost:4000/tags/%E6%97%A5%E5%B8%B8/"/>
+    <content>
+      <![CDATA[<h1 id="今天的异变"><a href="#今天的异变" class="headerlink" title="今天的异变"></a>今天的异变</h1><p>今天的幻想乡依旧不太平。一大早就感觉到一股奇怪的妖气从魔法森林那边传过来，不用说都知道是魔理沙又在搞什么危险的实验了。</p><blockquote><p>“灵梦！快来看看这个！我发明了新的魔法！” —— 雾雨魔理沙</p></blockquote><p>果然，下午魔理沙就跑来神社了，说是做了什么”会自动收取赛钱的魔法装置”。开什么玩笑，这种东西要是成功了还有人真的会来参拜吗？</p><p>虽然很麻烦，但还是跟着她去看了。结果那个装置确实挺危险的，一个不小心就会把整个神社炸飞。作为巫女，这种事情当然要由我来解决。</p><p>用符卡轻松解决了那个装置。魔理沙虽然心疼她的发明，但在我面前也只能认输。不过她临走时说还会再来，真是拿她没办法。</p><p><strong>今日收入：</strong> 0日元<br><strong>异变解决：</strong> 1件<br><strong>魔理沙打扰次数：</strong> 3次</p><p>穷啊，什么时候才能有点正常的收入来源呢？</p><p>算了，喝杯茶休息一下吧。明天的事情明天再说~</p>]]>
+    </content>
+    <id>http://localhost:4000/%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%BC%82%E5%8F%98/</id>
+    <link href="http://localhost:4000/%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%BC%82%E5%8F%98/"/>
+    <published>2026-03-14T07:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="今天的异变"><a href="#今天的异变" class="headerlink" title="今天的异变"></a>今天的异变</h1><p>今天的幻想乡依旧不太平。一大早就感觉到一股奇怪的妖气从魔法森林那边传过来，不用说都知道是魔理沙又在搞什么危险的实验了]]>
+    </summary>
+    <title>今天的异变</title>
+    <updated>2026-03-16T12:43:10.404Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>博丽灵梦</name>
+    </author>
+    <category term="日常" scheme="http://localhost:4000/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="http://localhost:4000/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="魔理沙" scheme="http://localhost:4000/tags/%E9%AD%94%E7%90%86%E6%B2%99/"/>
+    <content>
+      <![CDATA[<h1 id="魔理沙的魔法实验"><a href="#魔理沙的魔法实验" class="headerlink" title="魔理沙的魔法实验"></a>魔理沙的魔法实验</h1><p>今天魔理沙又来了，说要给我展示她的新发明。</p><blockquote><p>“灵梦！这次真的是很厉害的东西！”<br>—— 雾雨魔理沙</p></blockquote><p>我问她是什么，她说是”自动收取赛钱的魔法装置”。</p><p>开什么玩笑这种东西要是有的话还有人真的会来参拜吗？</p><p>结果那个装置确实挺危险的，一个不小心就会把整个神社炸飞。</p><p>作为巫女，我只能用符卡把它毁掉了。</p><p>魔理沙虽然心疼她的发明，但在我面前也只能认输。</p><p><strong>今日收入：</strong> 0日元<br><strong>魔理沙打扰次数：</strong> 2次</p><p>真是拿她没办法~</p>]]>
+    </content>
+    <id>http://localhost:4000/%E9%AD%94%E7%90%86%E6%B2%99%E7%9A%84%E9%AD%94%E6%B3%95%E5%AE%9E%E9%AA%8C/</id>
+    <link href="http://localhost:4000/%E9%AD%94%E7%90%86%E6%B2%99%E7%9A%84%E9%AD%94%E6%B3%95%E5%AE%9E%E9%AA%8C/"/>
+    <published>2026-03-12T07:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="魔理沙的魔法实验"><a href="#魔理沙的魔法实验" class="headerlink" title="魔理沙的魔法实验"></a>魔理沙的魔法实验</h1><p>今天魔理沙又来了，说要给我展示她的新发明。</p>
+<blockquote>
+<p>“灵梦！]]>
+    </summary>
+    <title>魔理沙的魔法实验</title>
+    <updated>2026-03-16T12:43:10.404Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>博丽灵梦</name>
+    </author>
+    <category term="日常" scheme="http://localhost:4000/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="赛钱" scheme="http://localhost:4000/tags/%E8%B5%9B%E9%92%B1/"/>
+    <category term="神社" scheme="http://localhost:4000/tags/%E7%A5%9E%E7%A4%BE/"/>
+    <content>
+      <![CDATA[<h1 id="关于赛钱的思考"><a href="#关于赛钱的思考" class="headerlink" title="关于赛钱的思考"></a>关于赛钱的思考</h1><p>今天又是颗粒无收的一天。作为博丽神社的巫女，我不禁陷入了深深的思考：为什么就是没人来参拜呢？</p><blockquote><p>“灵梦桑<del>偶尔也来白玉楼坐坐嘛</del>“ —— 西行寺幽幽子</p></blockquote><p>幻想乡的居民们都有自己的问题。紫整天搞境界的异变，萃香只知道喝酒，魔理沙天天做危险的实验，幽幽子大人则是在白玉楼悠闲地吃着草莓樱桃。</p><p>要我说神社为什么没人来，我觉得地理位置是个大问题。博丽神社在幻想乡的边缘地带，离其他妖怪的势力范围都很远。普通人一来一回要好几天，谁会愿意来啊？</p><p>不过！我可是专业的巫女。就算没有赛钱，也要好好履行巫女的职责。打扫神社、驱除邪祟、解决异变…这些事情可不能落下。</p><p>只是…神社的屋顶好像又漏水了。紫说这是”境界的问题”，不予处理。萃香倒是热心说要帮忙修，结果喝完酒就睡着了。</p><p>算啦，明天去人类村落看看吧。也许能遇到什么商机…不对，是传播神明的恩惠才对！</p><p><strong>本月赛钱收入：</strong> ¥0</p>]]>
+    </content>
+    <id>http://localhost:4000/%E5%85%B3%E4%BA%8E%E8%B5%9B%E9%92%B1%E7%9A%84%E6%80%9D%E8%80%83/</id>
+    <link href="http://localhost:4000/%E5%85%B3%E4%BA%8E%E8%B5%9B%E9%92%B1%E7%9A%84%E6%80%9D%E8%80%83/"/>
+    <published>2026-03-10T02:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="关于赛钱的思考"><a href="#关于赛钱的思考" class="headerlink" title="关于赛钱的思考"></a>关于赛钱的思考</h1><p>今天又是颗粒无收的一天。作为博丽神社的巫女，我不禁陷入了深深的思考：为什么就是没人来参拜呢？</p>]]>
+    </summary>
+    <title>关于赛钱的思考</title>
+    <updated>2026-03-16T12:43:10.404Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>博丽灵梦</name>
+    </author>
+    <category term="日常" scheme="http://localhost:4000/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="http://localhost:4000/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="风景" scheme="http://localhost:4000/tags/%E9%A3%8E%E6%99%AF/"/>
+    <content>
+      <![CDATA[<h1 id="幻想乡的春天"><a href="#幻想乡的春天" class="headerlink" title="幻想乡的春天"></a>幻想乡的春天</h1><p>春天到了，幻想乡变得格外美丽。</p><p>樱花盛开，整个幻想乡都被粉色的花海覆盖。</p><blockquote><p>“灵梦！一起去赏樱吧！”<br>—— 伊吹萃香</p></blockquote><p>虽然我总是说”好麻烦啊”，但还是去了。</p><p>毕竟春天的樱花真的很美。</p><h2 id="春天的幻想乡"><a href="#春天的幻想乡" class="headerlink" title="春天的幻想乡"></a>春天的幻想乡</h2><ul><li>🌸 樱花盛开</li><li>🏮 神社的樱花也开了</li><li>🍡 人类村落有赏樱活动</li><li>🎭 妖怪们也开始活动了</li></ul><p>坐在神社的走廊上，喝着茶，看着樱花飘落。</p><p>这样的日子，也不错嘛~</p><p><strong>今日赛钱：</strong> 100日元（居然有人给了！）</p>]]>
+    </content>
+    <id>http://localhost:4000/%E5%B9%BB%E6%83%B3%E4%B9%A1%E7%9A%84%E6%98%A5%E5%A4%A9/</id>
+    <link href="http://localhost:4000/%E5%B9%BB%E6%83%B3%E4%B9%A1%E7%9A%84%E6%98%A5%E5%A4%A9/"/>
+    <published>2026-03-08T04:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="幻想乡的春天"><a href="#幻想乡的春天" class="headerlink" title="幻想乡的春天"></a>幻想乡的春天</h1><p>春天到了，幻想乡变得格外美丽。</p>
+<p>樱花盛开，整个幻想乡都被粉色的花海覆盖。</p>
+<block]]>
+    </summary>
+    <title>幻想乡的春天</title>
+    <updated>2026-03-16T12:43:10.404Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>博丽灵梦</name>
+    </author>
+    <category term="修炼" scheme="http://localhost:4000/categories/%E4%BF%AE%E7%82%BC/"/>
+    <category term="符卡" scheme="http://localhost:4000/tags/%E7%AC%A6%E5%8D%A1/"/>
+    <category term="修炼" scheme="http://localhost:4000/tags/%E4%BF%AE%E7%82%BC/"/>
+    <content>
+      <![CDATA[<h1 id="符卡练习"><a href="#符卡练习" class="headerlink" title="符卡练习"></a>符卡练习</h1><p>今天在神社后面的空地上练习了一下午的符卡技能。虽然已经很强了，但作为巫女还是要不断精进才行~</p><blockquote><p>“灵梦！来一决胜负吧！” —— 雾雨魔理沙</p></blockquote><p>魔理沙总是想找我比赛，明明知道她不可能赢的。不过说实话，她的八卦炉确实挺厉害的，要是那天我没躲开的话可能就麻烦了。</p><h2 id="今日练习成果"><a href="#今日练习成果" class="headerlink" title="今日练习成果"></a>今日练习成果</h2><table><thead><tr><th>技能</th><th>熟练度</th></tr></thead><tbody><tr><td>🧧 灵符「梦想封印」</td><td>★★★☆☆</td></tr><tr><td>⭕ 阴阳玉</td><td>★★★★★</td></tr><tr><td>✨ 梦想「梦想天生」</td><td>★★★★☆</td></tr><tr><td>🪄 退魔拳</td><td>★★★★★</td></tr><tr><td>💨 空中漂浮</td><td>★★★★★</td></tr></tbody></table><p>说实话，符卡规则对我很有利。毕竟我是巫女，擅长的技能比较多。而且敌人看到阴阳玉就知道该认输了~</p><p>不过最近听说有几个新来的妖怪很强的样子。叫什么稀神探女、克劳恩皮丝之类的。有空得去会会她们。</p><p>练习完了，喝杯茶休息一下。今天的夕阳挺美的，不知道明天又会有什么异变呢…</p>]]>
+    </content>
+    <id>http://localhost:4000/%E7%AC%A6%E5%8D%A1%E7%BB%83%E4%B9%A0/</id>
+    <link href="http://localhost:4000/%E7%AC%A6%E5%8D%A1%E7%BB%83%E4%B9%A0/"/>
+    <published>2026-03-05T06:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="符卡练习"><a href="#符卡练习" class="headerlink" title="符卡练习"></a>符卡练习</h1><p>今天在神社后面的空地上练习了一下午的符卡技能。虽然已经很强了，但作为巫女还是要不断精进才行~</p>
+<blockquote]]>
+    </summary>
+    <title>符卡练习</title>
+    <updated>2026-03-16T12:43:10.404Z</updated>
+  </entry>
+</feed>
