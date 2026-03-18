@@ -10,11 +10,6 @@ type: friend
 
 ## 幻想乡的朋友们
 
-### 🌐 外界友人
-- **Makkisama**
-  - Blog: https://makkisama.netlify.app/
-  - Avatar: https://makkisama.netlify.app/avatar/avatar.webp
-
 ### 🔮 魔法使
 - **雾雨魔理沙**
   - 魔法森林的魔法使
