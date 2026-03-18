@@ -10,6 +10,8 @@ type: friend
 
 ## 幻想乡的朋友们
 
+{% friendsLink friend/_data.yml %}
+
 ### 🔮 魔法使
 - **雾雨魔理沙**
   - 魔法森林的魔法使
