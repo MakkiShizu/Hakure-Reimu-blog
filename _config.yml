@@ -9,8 +9,8 @@ language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
-url: https://makkishizu.github.io
-root: /Hakure-Reimu-blog/
+url: https://reimu-blog.netlify.app
+root: /
 permalink: :title/
 permalink_defaults:
 
