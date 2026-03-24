@@ -1,4 +1,4 @@
-const VERSION = "1774336552109";const preCache = ["/Hakure-Reimu-blog/images/taichi.png","/Hakure-Reimu-blog/images/banner.webp","/Hakure-Reimu-blog/css/loader.css","/Hakure-Reimu-blog/css/style.css","/Hakure-Reimu-blog/js/script.js"];const cacheDomain = [
+const VERSION = "1774337054945";const preCache = ["/images/taichi.png","/images/banner.webp","/css/loader.css","/css/style.css","/js/script.js"];const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
   "unpkg.com",
