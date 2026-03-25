@@ -44,7 +44,7 @@ jobs:
         run: pnpm install
 
       - name: Build Blog
-        run: pnpm hexo generate
+        run: pnpm hexo generate --config _config.github.yml
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
