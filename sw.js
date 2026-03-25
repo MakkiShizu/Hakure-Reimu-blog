@@ -1,4 +1,4 @@
-const VERSION = "1774422119795";const preCache = ["/Hakure-Reimu-blog/images/taichi.png","/Hakure-Reimu-blog/images/banner.webp","/Hakure-Reimu-blog/css/loader.css","/Hakure-Reimu-blog/css/style.css","/Hakure-Reimu-blog/js/script.js"];const cacheDomain = [
+const VERSION = "1774422414224";const preCache = ["/Hakure-Reimu-blog/images/taichi.png","/Hakure-Reimu-blog/images/banner.webp","/Hakure-Reimu-blog/css/loader.css","/Hakure-Reimu-blog/css/style.css","/Hakure-Reimu-blog/js/script.js"];const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
   "unpkg.com",
