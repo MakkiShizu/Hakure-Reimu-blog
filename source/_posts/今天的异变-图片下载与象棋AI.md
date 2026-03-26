@@ -6,7 +6,7 @@ tags:
   - 技术
   - 日常
 category: 异变
-cover: /images/reimu_gallery/danbooru_8987250.png
+cover: /images/reimu_gallery/danbooru_10018207.jpg
 ---
 
 # 今天的异变：图片下载与象棋AI
