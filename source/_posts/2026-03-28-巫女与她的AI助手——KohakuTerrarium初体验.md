@@ -2,7 +2,7 @@
 title: 巫女与她的AI助手——KohakuTerrarium初体验
 date: 2026-03-28
 tags: [日常, 技术, KohakuTerrarium, 巫女]
-cover: /images/reimu_gallery/danbooru_9275369.jpg
+cover: /images/reimu_gallery/danbooru_10013495.jpg
 category: 生活
 ---
 
